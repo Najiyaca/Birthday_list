@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Birthday_list/static/css/main.e6c13ad2.css",
+    "main.js": "/Birthday_list/static/js/main.6d70a8cd.js",
+    "static/js/787.6609b868.chunk.js": "/Birthday_list/static/js/787.6609b868.chunk.js",
+    "static/media/Ellipse -4.png": "/Birthday_list/static/media/Ellipse -4.1fb866309bc9e5b787a9.png",
+    "static/media/Ellipse 1.png": "/Birthday_list/static/media/Ellipse 1.57b722689ebe315bed1d.png",
+    "static/media/Ellipse -2.png": "/Birthday_list/static/media/Ellipse -2.81c163cab1b3165190a6.png",
+    "static/media/Ellipse -3.png": "/Birthday_list/static/media/Ellipse -3.01a1b62c1bd2f727c0b3.png",
+    "static/media/Ellipse -1.png": "/Birthday_list/static/media/Ellipse -1.ed28b61cef92bd7e29cd.png",
+    "index.html": "/Birthday_list/index.html",
+    "main.e6c13ad2.css.map": "/Birthday_list/static/css/main.e6c13ad2.css.map",
+    "main.6d70a8cd.js.map": "/Birthday_list/static/js/main.6d70a8cd.js.map",
+    "787.6609b868.chunk.js.map": "/Birthday_list/static/js/787.6609b868.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.6d70a8cd.js"
+  ]
+}
